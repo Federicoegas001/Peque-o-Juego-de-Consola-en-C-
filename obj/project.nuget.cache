@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "i/P7KN2kkPE9aX83BCbvbs4U94hgAppfbBL3+qbedvf/bSNDOWK8NzoFuPHGIkkijSahytukIgHLUoxVHpgpdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egasa\\OneDrive\\Escritorio\\proyectos para subir\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egasa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\egasa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\egasa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\egasa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
